@@ -18,4 +18,8 @@ public class HelloGit {
 	public void B() {
 		System.out.println("BBBBBBBBBBBBBBBBBBBBBB");
 	}
+
+	public void C() {
+		System.out.println("CCCCCCCCCCCCCCCCCCCCCCCCC");
+	}
 }
