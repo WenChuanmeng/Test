@@ -22,4 +22,14 @@ public class HelloGit {
 	public void C() {
 		System.out.println("CCCCCCCCCCCCCCCCCCCCCCCCC");
 	}
+	
+	public void d() {
+		System.out.println("CCCCCCCCCCCCCCCCCCCCCCCCC");
+	}
+	public void e() {
+		System.out.println("CCCCCCCCCCCCCCCCCCCCCCCCC");
+	}
+	public void f() {
+		System.out.println("CCCCCCCCCCCCCCCCCCCCCCCCC");
+	}
 }
